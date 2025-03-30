@@ -81,5 +81,5 @@ python eval.py --checkpoint path_to_checkpoint
 ```
 
 ## References
-- BDD100K Dataset: https://bdd-data.berkeley.edu/
+- BDD100K Dataset: https://www.kaggle.com/datasets/solesensei/solesensei_bdd100k
 - BLIP Paper: https://arxiv.org/abs/2201.12086
