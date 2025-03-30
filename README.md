@@ -44,7 +44,7 @@ To evaluate the model, we compared captions before and after fine-tuning. The ch
 
 **Example:**
 ### **Before Fine-Tuning:**
-![Before Fine-Tuning](path_to_before_image)
+![Before Fine-Tuning](Sample1.png)
 
 ### **After Fine-Tuning:**
 ![After Fine-Tuning](path_to_after_image)
