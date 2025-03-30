@@ -47,7 +47,7 @@ To evaluate the model, we compared captions before and after fine-tuning. The ch
 ![Before Fine-Tuning](Sample1.png)
 
 ### **After Fine-Tuning:**
-![After Fine-Tuning](path_to_after_image)
+![After Fine-Tuning](Sample2.png)
 
 This demonstrates that fine-tuning refined the details rather than changing the overall understanding.
 
@@ -67,18 +67,6 @@ To further enhance the model, the following improvements can be explored:
 4. **Adding More Contextual Data** – Incorporating sensor data (LiDAR, Radar) to enrich image captions beyond visual elements.
 
 
-
-## How to Run
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Train the model
-python train.py --epochs 50 --batch_size 16
-
-# Evaluate the model
-python eval.py --checkpoint path_to_checkpoint
-```
 
 ## References
 - BDD100K Dataset: https://www.kaggle.com/datasets/solesensei/solesensei_bdd100k
