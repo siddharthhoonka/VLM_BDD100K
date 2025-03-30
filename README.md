@@ -43,8 +43,11 @@ The fine-tuning process revealed key differences compared to Cityscapes-based tr
 To evaluate the model, we compared captions before and after fine-tuning. The changes were **minor but meaningful**, improving clarity and specificity.
 
 **Example:**
-- **Before Fine-Tuning:** "A car is driving on a city street with traffic lights."
-- **After Fine-Tuning:** "A white sedan moves through an urban road under red traffic lights at night."
+### **Before Fine-Tuning:**
+![Before Fine-Tuning](path_to_before_image)
+
+### **After Fine-Tuning:**
+![After Fine-Tuning](path_to_after_image)
 
 This demonstrates that fine-tuning refined the details rather than changing the overall understanding.
 
