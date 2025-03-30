@@ -49,7 +49,7 @@ To evaluate the model, we compared captions before and after fine-tuning. The ch
 ### **After Fine-Tuning:**
 ![After Fine-Tuning](Sample2.png)
 
-This demonstrates that fine-tuning refined the details rather than changing the overall understanding.
+There were minimal to no changes after fine-tuning because of the strong pretrained capabilities of BLIP, which already had a well-developed understanding of image-captioning tasks, requiring only slight refinements in domain-specific descriptions
 
 ## Conclusion
 Fine-tuning **BLIP on BDD100K** significantly improved image captioning for autonomous vehicles. The **larger dataset size and diversity** led to **better accuracy and lower loss** compared to Cityscapes.
