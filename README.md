@@ -66,18 +66,7 @@ To further enhance the model, the following improvements can be explored:
 3. **Real-Time Inference Optimization** – Speeding up caption generation for deployment in autonomous vehicles.
 4. **Adding More Contextual Data** – Incorporating sensor data (LiDAR, Radar) to enrich image captions beyond visual elements.
 
----
-## Repository Structure
-```
-📂 project_root
- ├── 📂 data            # BDD100K dataset
- ├── 📂 models          # Saved fine-tuned BLIP model
- ├── 📂 notebooks       # Training and evaluation notebooks
- ├── 📂 visualization   # Captioning output images
- ├── train.py          # Training script
- ├── eval.py           # Evaluation script
- ├── README.md         # Project documentation
-```
+
 
 ## How to Run
 ```bash
